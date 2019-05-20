@@ -1,0 +1,2 @@
+# gogs
+gogs szerver telepítése
